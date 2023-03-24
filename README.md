@@ -19,7 +19,10 @@ Redis
 
 
 <h1>Tools</h1>
-<img src="https://img.shields.io/badge/JavaScript-777BB4?style=flat&color=black&logo=javascript" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/JavaScript-777BB4?style=flat&color=black&logo=javascript" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+</div>
+
