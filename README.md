@@ -10,11 +10,11 @@ I am 24yo, a software developer with 7+ years of experience in the field of web,
 
 <hr />
 
-Design Patters
-Software Architucture
-Scrum
-Test Driven Development
-Agile Principles
+Design Patters<br />
+Software Architucture<br />
+Scrum<br />
+Test Driven Development<br />
+Agile Principles<br />
 Redis
 
 
